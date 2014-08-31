@@ -2,7 +2,7 @@
     "name": "elmariachi111/batch-bundle",
     "type": "symfony-bundle",
     "description": "Schedule, execute and control batch processes in Symfony2",
-    "keywords": ["cron", "schedule","batch",],
+    "keywords": ["cron", "schedule","batch"],
     "license": "MIT",
     "authors": [
         {
