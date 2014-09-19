@@ -1,6 +1,6 @@
 <?php
 
-namespace Elmariachi111\Bundle\BatchBundle\DependencyInjection;
+namespace Elmariachi111\BatchBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

@@ -1,0 +1,5 @@
+console:
+    pattern:  /jobs
+    defaults: { _controller: Elmariachi111BatchBundle:Jobs:index }
+    requirements:
+        _method: GET

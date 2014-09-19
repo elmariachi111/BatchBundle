@@ -1,6 +1,6 @@
 <?php
 
-namespace Elmariachi111\Bundle\BatchBundle\DependencyInjection;
+namespace Elmariachi111\BatchBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

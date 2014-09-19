@@ -1,13 +1,14 @@
 <?php
 
-namespace  Elmariachi111\Bundle\BatchBundle\Controller;
+namespace  Elmariachi111\BatchBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Symfony\Component\HttpFoundation\Response;
 
 class JobsController extends Controller
 {
     public function indexAction()
     {
-        return "Hello";
+        return new Response("Hello");
     }
 }
